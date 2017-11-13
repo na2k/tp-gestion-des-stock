@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+#formulaire{
+  margin-left: 20px;
+}
+.saisieFormulaire{
+  display: block;
+  margin-top: 5px;
+}
+.saisieFormulaire:first-child{
+  margin-top: 20px;
+}
+#validerFormulaire{
+  margin-top: 5px;
+}
